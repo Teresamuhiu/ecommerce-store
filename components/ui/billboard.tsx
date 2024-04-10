@@ -1,4 +1,5 @@
-import { Billboard } from "@/types";
+import type { Billboard } from "@/types";
+
 
 interface BillboardProps {
   data: Billboard;
